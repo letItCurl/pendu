@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
   s.email       = 'rolandlopez.developer@gmail.com'
   s.files       = ["lib/pendu.rb", "lib/useless/wording.rb", "README.md"]
   s.homepage    =
-    'https://rubygems.org/gems/pendu'
+    'https://github.com/letItCurl/pendu'
   s.license       = 'MIT'
 end
