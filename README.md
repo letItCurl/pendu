@@ -1,5 +1,5 @@
 # Le pendu [![](https://img.shields.io/badge/autor-letItCurl-red.svg)](https://www.linkedin.com/in/roland-lopez-developer/?locale=en_US)
->Install this gem to have a small game in your terminal !
+>Install this gem to have a small game in your terminal 😹
 
 <p align="center" >
   <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588523135/Vue-Sprint/MyUselessGem_o6zmhf.png">
