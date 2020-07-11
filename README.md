@@ -5,19 +5,19 @@
   <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588523135/Vue-Sprint/MyUselessGem_o6zmhf.png">
 </p>
 
-# Installation
+# Installation:
 ```
 $ gem install pendu
 ```
 
-# Usage
+# Usage:
 ```
 $ pendu
 // then the game start in your terminal...
 // you can stop this with ctrl+c
 ```
 
-# Uninstall
+# Uninstall:
 ```
 gem uninstall pendu
 // and if you are using rbenv:
